@@ -1,5 +1,4 @@
-{
-  "students": [
+[
     {
       "name": "John Doe",
       "studentId": "123456",
@@ -7,5 +6,4 @@
       "college": "XYZ College",
       "course": "Computer Science"
     },
-  ]
-}
+]
